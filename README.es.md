@@ -6,7 +6,7 @@ Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Cons
 
 Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construyendo productos y experimentos de IA para pequeñas empresas en Brasil y España, como proyectos paralelos en mi tiempo libre. Llevo el ciclo completo: arquitectura, código y QC.
 
-> **RA Holdings es un proyecto personal y sin fines comerciales. No es una empresa en funcionamiento y no genera ingresos. Todo lo que hay aquí se hace en mi tiempo libre.**
+> **RA Holdings es un proyecto personal. Todo lo que hay aquí se hace en mi tiempo libre.**
 
 [rastudios.com.br](https://rastudios.com.br) · [LinkedIn](https://linkedin.com/in/diegopadilha/) · diego.padilha2000@gmail.com
 
@@ -30,7 +30,7 @@ Un proyecto de estudio que explora películas de producto, webs, apps y consulto
 - **Películas (5–60 s):** generadas en ElevenLabs / Higgsfield
 - **Pipeline:** brief → prompt de generación → QC en Python (geometría, loudness EBU R128, end-card a fotograma exacto) → entrega
 - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
-- **Estado:** web de portfolio pública, sin trabajo remunerado · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
+- **Estado:** web de portfolio pública · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — enseñando a Brasil a usar IA**
 Una página de LinkedIn recién lanzada, "Ensinando o Brasil a usar IA", que lleva IA práctica a profesionales, escuelas, jóvenes y comunidades de bajos ingresos en Brasil.

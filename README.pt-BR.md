@@ -2,7 +2,7 @@
 
 # Diego Riviere Padilha
 
-Fundador, **RA Studios** · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · Nova York · Barcelona
+Fundador, **RA Holdings** (RA Studios · RA Performance · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · Nova York · Barcelona
 
 Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construindo produtos para PMEs no Brasil e na Espanha. Cuido do ciclo inteiro: arquitetura, código, QC e os clientes.
 
@@ -12,13 +12,26 @@ Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construin
 
 ## O que estou construindo
 
-### RA Studios — estúdio de vídeo publicitário com IA · 2026 – atual
-Filmes de produto (5–60 s) para PMEs brasileiras, gerados no ElevenLabs (vídeo Seedance, voz Eleven v3) — além de sites e apps para os mesmos clientes.
+### RA Holdings · 2026 – atual
+Minha empresa, com três braços. O mesmo método em todos: spec primeiro, QC antes de entregar, e eu cuido do ciclo inteiro (arquitetura, código, QC, clientes).
 
-- **Papel:** fundador — oferta, preço, go-to-market, produção, entrega
+**RA Studios — estúdio digital para empresas**
+Filmes de produto, sites, apps e consultoria de IA para PMEs no Brasil.
+
+- **Filmes (5–60 s):** gerados no ElevenLabs / Higgsfield
 - **Pipeline:** briefing → prompt de geração → QC em Python (geometria, loudness EBU R128, end-card frame a frame) → cliente
-- **Stack:** ElevenLabs · Python / ffmpeg · Cloudflare Workers · Meta Ads
+- **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
 - **Status:** no ar, primeiros clientes pagantes · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
+
+**RA Performance — performance de pessoas e de negócios**
+Apps construídos em torno de treino e coaching.
+
+- **RA One:** app iOS para treinar em grupo (atividade compartilhada, posts, convites do seu pack). Swift + Supabase, em TestFlight (1.0), construído com um sócio · [privacidade e suporte](https://github.com/dpadilha1/raone-site)
+- **Einstein Bud:** coach de check-in no WhatsApp para atletas, construído com ElevenLabs Agents. Em andamento.
+- **Papel:** produto e engenharia
+
+**RA Education — ensinando o Brasil a usar IA**
+Uma página no LinkedIn recém-lançada, "Ensinando o Brasil a usar IA", levando IA prática a profissionais, escolas, jovens e comunidades de baixa renda no Brasil.
 
 ### Vivers de Cardedeu — Business Operating System · nov 2025 – atual
 Um sistema operacional para o [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), viveiro familiar em Cardedeu (Barcelona): estoque, CRM, pedidos, relatórios e mapa de vendas — desenhado para virar um SaaS multi-tenant para PMEs espanholas.
@@ -28,14 +41,7 @@ Um sistema operacional para o [Vivers de Cardedeu](https://viverosdecardedeu.com
 - **Stack:** Node.js / Express · PostgreSQL / Prisma · Zod · Next.js 14 · React 18 · TypeScript · Tailwind · React Query · Leaflet · i18n (es / ca / en)
 - **Status:** em testes internos antes do rollout; liderando a prospecção do viveiro junto a escritórios de arquitetura, construtoras e redes de hotéis · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
 
-### RA One — app iOS para treinar em grupo · mai 2026 – atual
-Treine com o seu grupo (o seu "pack"): atividade compartilhada, posts, convites. Swift + Supabase. Em TestFlight (1.0), construído com um sócio.
-
-- **Papel:** produto e engenharia
-- **Stack:** Swift · Supabase · localizado
-- **Status:** TestFlight · [privacidade e suporte](https://github.com/dpadilha1/raone-site)
-
-Os três códigos-fonte são privados.
+Todos os códigos-fonte são privados.
 
 ---
 
@@ -43,7 +49,7 @@ Os três códigos-fonte são privados.
 Spec primeiro, depois build. Toda entrega é validada contra a spec antes de sair. Mudanças aditivas em vez de reescritas. Documentar tudo.
 
 ## Stack
-Python · JavaScript / TypeScript · Node.js · PostgreSQL / Prisma · Next.js / React · Swift · ElevenLabs · Supabase · Cloudflare · ffmpeg
+Python · JavaScript / TypeScript · Node.js · PostgreSQL / Prisma · Next.js / React · Swift · ElevenLabs · Higgsfield · Supabase · Cloudflare · ffmpeg
 
 ## Background
 Mestrado em Finanças, Georgia State (tênis NCAA D1). Ratings de finanças estruturadas (CMBS / CRE) na Moody's, onde avalio imóveis comerciais, classifico bonds e melhoro a eficiência de processos internos.

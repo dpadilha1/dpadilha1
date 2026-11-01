@@ -2,7 +2,7 @@
 
 # Diego Riviere Padilha
 
-Founder, **RA Studios** · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · New York · Barcelona
+Founder, **RA Holdings** (RA Studios · RA Performance · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · New York · Barcelona
 
 Finance background (structured finance CMBS at Moody's), now building products for SMEs in Brazil and Spain. I run the whole loop: architecture, code, QC, and the customers.
 
@@ -12,13 +12,26 @@ Finance background (structured finance CMBS at Moody's), now building products f
 
 ## What I'm building
 
-### RA Studios — AI video-ad studio · 2026 – present
-Product films (5–60 s) for Brazilian SMEs, generated on ElevenLabs (Seedance video, Eleven v3 voice) — plus websites and apps for the same clients.
+### RA Holdings · 2026 – present
+My company, with three arms. Same method in all of them: spec first, QC before delivery, and I run the whole loop (architecture, code, QC, customers).
 
-- **Role:** founder — offer, pricing, go-to-market, production, delivery
+**RA Studios — digital studio for companies**
+Product films, websites, apps and AI consulting for SMEs in Brazil.
+
+- **Films (5–60 s):** generated on ElevenLabs / Higgsfield
 - **Pipeline:** brief → generation prompt → Python QC (geometry, EBU R128 loudness, frame-accurate end-card) → client
-- **Stack:** ElevenLabs · Python / ffmpeg · Cloudflare Workers · Meta Ads
+- **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
 - **Status:** live, first paying clients · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
+
+**RA Performance — performance of people and businesses**
+Apps built around training and coaching.
+
+- **RA One:** iOS app for training in packs (your group's shared activity, posts, invites). Swift + Supabase, in TestFlight (1.0), co-built with a partner · [privacy & support](https://github.com/dpadilha1/raone-site)
+- **Einstein Bud:** a WhatsApp check-in coach for athletes, built on ElevenLabs Agents. In progress.
+- **Role:** product and engineering
+
+**RA Education — teaching Brazil to use AI**
+A newly launched LinkedIn Page, "Ensinando o Brasil a usar IA", bringing practical AI to working professionals, schools, young people and lower-income communities in Brazil.
 
 ### Vivers de Cardedeu — Business Operating System · Nov 2025 – present
 An operating system for [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), a family-run plant nursery in Cardedeu (Barcelona): inventory, CRM, orders, reports, and a sales map — designed to become a multi-tenant SaaS for Spanish SMEs.
@@ -28,14 +41,7 @@ An operating system for [Vivers de Cardedeu](https://viverosdecardedeu.com/en/),
 - **Stack:** Node.js / Express · PostgreSQL / Prisma · Zod · Next.js 14 · React 18 · TypeScript · Tailwind · React Query · Leaflet · i18n (es / ca / en)
 - **Status:** internal testing ahead of rollout; leading the nursery's outreach to architect studios, construction firms, and hotel chains · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
 
-### RA One — iOS app for training in packs · May 2026 – present
-Train with your group (your "pack"): shared activity, posts, invites. Swift + Supabase. In TestFlight (1.0), co-built with a partner.
-
-- **Role:** product and engineering
-- **Stack:** Swift · Supabase · localized
-- **Status:** TestFlight · [privacy & support](https://github.com/dpadilha1/raone-site)
-
-All three codebases are private.
+All codebases are private.
 
 ---
 
@@ -43,7 +49,7 @@ All three codebases are private.
 Spec first, then build. Every delivery is validated against spec before it ships. Additive changes over rewrites. Document everything.
 
 ## Stack
-Python · JavaScript / TypeScript · Node.js · PostgreSQL / Prisma · Next.js / React · Swift · ElevenLabs · Supabase · Cloudflare · ffmpeg
+Python · JavaScript / TypeScript · Node.js · PostgreSQL / Prisma · Next.js / React · Swift · ElevenLabs · Higgsfield · Supabase · Cloudflare · ffmpeg
 
 ## Background
 MS Finance, Georgia State (NCAA D1 tennis). Structured finance ratings (CMBS / CRE) at Moody's, where I value commercial real estate properties, rate bonds, and improve the efficiency of internal processes.

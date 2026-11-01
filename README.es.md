@@ -33,6 +33,8 @@ Películas de producto, webs, apps y consultoría de IA para pymes en Brasil.
 **RA Education — enseñando a Brasil a usar IA**
 Una página de LinkedIn recién lanzada, "Ensinando o Brasil a usar IA", que lleva IA práctica a profesionales, escuelas, jóvenes y comunidades de bajos ingresos en Brasil.
 
+- **Skills de código abierto:** [ra-education-skills](https://github.com/dpadilha1/ra-education-skills), skills reutilizables para agentes de IA (Claude Code, Codex, Gemini CLI). La primera: `/cleanup`, que audita un proyecto en busca de secretos filtrados, exceso de archivos, docs obsoletos y tokens desperdiciados. Licencia MIT.
+
 ### Vivers de Cardedeu — Business Operating System · nov 2025 – actual
 Un sistema operativo para [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), un vivero familiar en Cardedeu (Barcelona): inventario, CRM, pedidos, informes y mapa de ventas — diseñado para convertirse en un SaaS multi-tenant para pymes españolas.
 

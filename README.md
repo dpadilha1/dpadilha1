@@ -33,6 +33,8 @@ Product films, websites, apps and AI consulting for SMEs in Brazil.
 **RA Education — teaching Brazil to use AI**
 A newly launched LinkedIn Page, "Ensinando o Brasil a usar IA", bringing practical AI to working professionals, schools, young people and lower-income communities in Brazil.
 
+- **Open-source skills:** [ra-education-skills](https://github.com/dpadilha1/ra-education-skills), reusable skills for AI agents (Claude Code, Codex, Gemini CLI). First one: `/cleanup`, which audits a project for leaked secrets, bloat, stale docs and wasted tokens. MIT license.
+
 ### Vivers de Cardedeu — Business Operating System · Nov 2025 – present
 An operating system for [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), a family-run plant nursery in Cardedeu (Barcelona): inventory, CRM, orders, reports, and a sales map — designed to become a multi-tenant SaaS for Spanish SMEs.
 

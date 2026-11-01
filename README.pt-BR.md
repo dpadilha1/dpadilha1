@@ -33,6 +33,8 @@ Filmes de produto, sites, apps e consultoria de IA para PMEs no Brasil.
 **RA Education — ensinando o Brasil a usar IA**
 Uma página no LinkedIn recém-lançada, "Ensinando o Brasil a usar IA", levando IA prática a profissionais, escolas, jovens e comunidades de baixa renda no Brasil.
 
+- **Skills open source:** [ra-education-skills](https://github.com/dpadilha1/ra-education-skills), skills reutilizáveis para agentes de IA (Claude Code, Codex, Gemini CLI). A primeira: `/cleanup`, que audita um projeto atrás de segredos vazados, excesso de arquivos, docs desatualizados e tokens desperdiçados. Licença MIT.
+
 ### Vivers de Cardedeu — Business Operating System · nov 2025 – atual
 Um sistema operacional para o [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), viveiro familiar em Cardedeu (Barcelona): estoque, CRM, pedidos, relatórios e mapa de vendas — desenhado para virar um SaaS multi-tenant para PMEs espanholas.
 

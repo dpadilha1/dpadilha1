@@ -2,7 +2,7 @@
 
 # Diego Riviere Padilha
 
-Fundador, **RA Holdings** (RA Studios · RA Performance · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · Nueva York · Barcelona
+Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · Nueva York · Barcelona
 
 Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construyendo productos para pymes en Brasil y España. Llevo el ciclo completo: arquitectura, código, QC y los clientes.
 
@@ -15,6 +15,13 @@ Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construye
 ### RA Holdings · 2026 – actual
 Mi empresa, con tres brazos. El mismo método en todos: primero la spec, QC antes de entregar, y llevo el ciclo completo (arquitectura, código, QC, clientes).
 
+**RA Performance — rendimiento de personas y de negocios**
+Apps construidas en torno al entrenamiento y el coaching.
+
+- **RA One:** app iOS para entrenar en grupo (actividad compartida, posts, invitaciones de tu pack). Swift + Supabase, en TestFlight (1.0), construida con un socio · [privacidad y soporte](https://github.com/dpadilha1/raone-site)
+- **Einstein Bud:** coach de check-in por WhatsApp para atletas, construido con ElevenLabs Agents. En curso.
+- **Rol:** producto e ingeniería
+
 **RA Studios — estudio digital para empresas**
 Películas de producto, webs, apps y consultoría de IA para pymes en Brasil.
 
@@ -22,13 +29,6 @@ Películas de producto, webs, apps y consultoría de IA para pymes en Brasil.
 - **Pipeline:** brief → prompt de generación → QC en Python (geometría, loudness EBU R128, end-card a fotograma exacto) → cliente
 - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
 - **Estado:** en vivo, primeros clientes de pago · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
-
-**RA Performance — rendimiento de personas y de negocios**
-Apps construidas en torno al entrenamiento y el coaching.
-
-- **RA One:** app iOS para entrenar en grupo (actividad compartida, posts, invitaciones de tu pack). Swift + Supabase, en TestFlight (1.0), construida con un socio · [privacidad y soporte](https://github.com/dpadilha1/raone-site)
-- **Einstein Bud:** coach de check-in por WhatsApp para atletas, construido con ElevenLabs Agents. En curso.
-- **Rol:** producto e ingeniería
 
 **RA Education — enseñando a Brasil a usar IA**
 Una página de LinkedIn recién lanzada, "Ensinando o Brasil a usar IA", que lleva IA práctica a profesionales, escuelas, jóvenes y comunidades de bajos ingresos en Brasil.

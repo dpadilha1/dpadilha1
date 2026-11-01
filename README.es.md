@@ -2,9 +2,11 @@
 
 # Diego Riviere Padilha
 
-Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · Nueva York · Barcelona
+Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Construyendo **Vivers de Cardedeu BOS** (vivero familiar) · São Paulo · Nueva York · Barcelona
 
-Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construyendo productos para pymes en Brasil y España. Llevo el ciclo completo: arquitectura, código, QC y los clientes.
+Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construyendo productos y experimentos de IA para pequeñas empresas en Brasil y España, como proyectos paralelos en mi tiempo libre. Llevo el ciclo completo: arquitectura, código y QC.
+
+> **RA Holdings es un proyecto personal y sin fines comerciales. No es una empresa en funcionamiento y no genera ingresos. Todo lo que hay aquí se hace en mi tiempo libre.**
 
 [rastudios.com.br](https://rastudios.com.br) · [LinkedIn](https://linkedin.com/in/diegopadilha/) · diego.padilha2000@gmail.com
 
@@ -13,7 +15,7 @@ Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construye
 ## Qué estoy construyendo
 
 ### RA Holdings · 2026 – actual
-Mi empresa, con tres brazos. El mismo método en todos: primero la spec, QC antes de entregar, y llevo el ciclo completo (arquitectura, código, QC, clientes).
+Mi proyecto personal, con tres brazos. El mismo método en todos: primero la spec, QC antes de entregar, y llevo el ciclo completo (arquitectura, código, QC).
 
 **RA Performance — rendimiento de personas y de negocios**
 Apps construidas en torno al entrenamiento y el coaching.
@@ -22,13 +24,13 @@ Apps construidas en torno al entrenamiento y el coaching.
 - **Einstein Bud:** coach de check-in por WhatsApp para atletas, construido con ElevenLabs Agents. En curso.
 - **Rol:** producto e ingeniería
 
-**RA Studios — estudio digital para empresas**
-Películas de producto, webs, apps y consultoría de IA para pymes en Brasil.
+**RA Studios — proyecto de estudio digital**
+Un proyecto de estudio que explora películas de producto, webs, apps y consultoría de IA para pequeñas empresas en Brasil.
 
 - **Películas (5–60 s):** generadas en ElevenLabs / Higgsfield
-- **Pipeline:** brief → prompt de generación → QC en Python (geometría, loudness EBU R128, end-card a fotograma exacto) → cliente
+- **Pipeline:** brief → prompt de generación → QC en Python (geometría, loudness EBU R128, end-card a fotograma exacto) → entrega
 - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
-- **Estado:** en vivo, primeros clientes de pago · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
+- **Estado:** web de portfolio pública, sin trabajo remunerado · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — enseñando a Brasil a usar IA**
 Una página de LinkedIn recién lanzada, "Ensinando o Brasil a usar IA", que lleva IA práctica a profesionales, escuelas, jóvenes y comunidades de bajos ingresos en Brasil.
@@ -38,10 +40,10 @@ Una página de LinkedIn recién lanzada, "Ensinando o Brasil a usar IA", que lle
 ### Vivers de Cardedeu — Business Operating System · nov 2025 – actual
 Un sistema operativo para [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), un vivero familiar en Cardedeu (Barcelona): inventario, CRM, pedidos, informes y mapa de ventas — diseñado para convertirse en un SaaS multi-tenant para pymes españolas.
 
-- **Rol:** product lead — modelo de datos, reglas de negocio, roadmap y la captación de clientes del vivero
+- **Rol:** product lead — modelo de datos, reglas de negocio y roadmap
 - **Diseño:** inventario por variante · cada movimiento de stock auditado · ciclo de pedido `DRAFT → FINALIZED → CANCELLED` · informes solo sobre FINALIZED
 - **Stack:** Node.js / Express · PostgreSQL / Prisma · Zod · Next.js 14 · React 18 · TypeScript · Tailwind · React Query · Leaflet · i18n (es / ca / en)
-- **Estado:** en pruebas internas antes del despliegue; liderando la captación de clientes del vivero entre estudios de arquitectura, constructoras y cadenas hoteleras · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
+- **Estado:** en pruebas internas antes del despliegue · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
 
 El código de todos los proyectos es privado.
 

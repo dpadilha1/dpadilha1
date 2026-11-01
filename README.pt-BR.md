@@ -2,9 +2,11 @@
 
 # Diego Riviere Padilha
 
-Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · Nova York · Barcelona
+Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Construindo o **Vivers de Cardedeu BOS** (viveiro familiar) · São Paulo · Nova York · Barcelona
 
-Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construindo produtos para PMEs no Brasil e na Espanha. Cuido do ciclo inteiro: arquitetura, código, QC e os clientes.
+Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construindo produtos e experimentos de IA para pequenas empresas no Brasil e na Espanha, como projetos paralelos no meu tempo livre. Cuido do ciclo inteiro: arquitetura, código e QC.
+
+> **A RA Holdings é um projeto pessoal e sem fins comerciais. Não é uma empresa em operação e não gera receita. Tudo aqui é feito no meu tempo livre.**
 
 [rastudios.com.br](https://rastudios.com.br) · [LinkedIn](https://linkedin.com/in/diegopadilha/) · diego.padilha2000@gmail.com
 
@@ -13,7 +15,7 @@ Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construin
 ## O que estou construindo
 
 ### RA Holdings · 2026 – atual
-Minha empresa, com três braços. O mesmo método em todos: spec primeiro, QC antes de entregar, e eu cuido do ciclo inteiro (arquitetura, código, QC, clientes).
+Meu projeto pessoal, com três braços. O mesmo método em todos: spec primeiro, QC antes de entregar, e eu cuido do ciclo inteiro (arquitetura, código, QC).
 
 **RA Performance — performance de pessoas e de negócios**
 Apps construídos em torno de treino e coaching.
@@ -22,13 +24,13 @@ Apps construídos em torno de treino e coaching.
 - **Einstein Bud:** coach de check-in no WhatsApp para atletas, construído com ElevenLabs Agents. Em andamento.
 - **Papel:** produto e engenharia
 
-**RA Studios — estúdio digital para empresas**
-Filmes de produto, sites, apps e consultoria de IA para PMEs no Brasil.
+**RA Studios — projeto de estúdio digital**
+Um projeto de estúdio que explora filmes de produto, sites, apps e consultoria de IA para pequenas empresas no Brasil.
 
 - **Filmes (5–60 s):** gerados no ElevenLabs / Higgsfield
-- **Pipeline:** briefing → prompt de geração → QC em Python (geometria, loudness EBU R128, end-card frame a frame) → cliente
+- **Pipeline:** briefing → prompt de geração → QC em Python (geometria, loudness EBU R128, end-card frame a frame) → entrega
 - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
-- **Status:** no ar, primeiros clientes pagantes · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
+- **Status:** site de portfólio público, sem trabalho remunerado · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — ensinando o Brasil a usar IA**
 Uma página no LinkedIn recém-lançada, "Ensinando o Brasil a usar IA", levando IA prática a profissionais, escolas, jovens e comunidades de baixa renda no Brasil.
@@ -38,10 +40,10 @@ Uma página no LinkedIn recém-lançada, "Ensinando o Brasil a usar IA", levando
 ### Vivers de Cardedeu — Business Operating System · nov 2025 – atual
 Um sistema operacional para o [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), viveiro familiar em Cardedeu (Barcelona): estoque, CRM, pedidos, relatórios e mapa de vendas — desenhado para virar um SaaS multi-tenant para PMEs espanholas.
 
-- **Papel:** product lead — modelo de dados, regras de negócio, roadmap e a prospecção de clientes do viveiro
+- **Papel:** product lead — modelo de dados, regras de negócio e roadmap
 - **Design:** estoque por variante · toda movimentação auditada · ciclo de pedido `DRAFT → FINALIZED → CANCELLED` · relatórios só sobre FINALIZED
 - **Stack:** Node.js / Express · PostgreSQL / Prisma · Zod · Next.js 14 · React 18 · TypeScript · Tailwind · React Query · Leaflet · i18n (es / ca / en)
-- **Status:** em testes internos antes do rollout; liderando a prospecção do viveiro junto a escritórios de arquitetura, construtoras e redes de hotéis · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
+- **Status:** em testes internos antes do rollout · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
 
 Todos os códigos-fonte são privados.
 

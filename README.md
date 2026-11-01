@@ -2,9 +2,11 @@
 
 # Diego Riviere Padilha
 
-Founder, **RA Holdings** (RA Performance · RA Studios · RA Education) · Product Lead, **Vivers de Cardedeu BOS** · São Paulo · New York · Barcelona
+Founder, **RA Holdings** (RA Performance · RA Studios · RA Education) · Building **Vivers de Cardedeu BOS** (family nursery) · São Paulo · New York · Barcelona
 
-Finance background (structured finance CMBS at Moody's), now building products for SMEs in Brazil and Spain. I run the whole loop: architecture, code, QC, and the customers.
+Finance background (structured finance CMBS at Moody's), now building AI products and experiments for small businesses in Brazil and Spain, as side projects in my free time. I run the whole loop: architecture, code and QC.
+
+> **RA Holdings is a personal, non-commercial project. It is not a business and generates no income. Everything here is built in my free time.**
 
 [rastudios.com.br](https://rastudios.com.br) · [LinkedIn](https://linkedin.com/in/diegopadilha/) · diego.padilha2000@gmail.com
 
@@ -13,7 +15,7 @@ Finance background (structured finance CMBS at Moody's), now building products f
 ## What I'm building
 
 ### RA Holdings · 2026 – present
-My company, with three arms. Same method in all of them: spec first, QC before delivery, and I run the whole loop (architecture, code, QC, customers).
+My personal project, with three arms. Same method in all of them: spec first, QC before delivery, and I run the whole loop (architecture, code, QC).
 
 **RA Performance — performance of people and businesses**
 Apps built around training and coaching.
@@ -22,13 +24,13 @@ Apps built around training and coaching.
 - **Einstein Bud:** a WhatsApp check-in coach for athletes, built on ElevenLabs Agents. In progress.
 - **Role:** product and engineering
 
-**RA Studios — digital studio for companies**
-Product films, websites, apps and AI consulting for SMEs in Brazil.
+**RA Studios — digital studio project**
+A studio project exploring product films, websites, apps and AI consulting for small businesses in Brazil.
 
 - **Films (5–60 s):** generated on ElevenLabs / Higgsfield
-- **Pipeline:** brief → generation prompt → Python QC (geometry, EBU R128 loudness, frame-accurate end-card) → client
+- **Pipeline:** brief → generation prompt → Python QC (geometry, EBU R128 loudness, frame-accurate end-card) → delivery
 - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
-- **Status:** live, first paying clients · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
+- **Status:** public portfolio site, no paid work · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — teaching Brazil to use AI**
 A newly launched LinkedIn Page, "Ensinando o Brasil a usar IA", bringing practical AI to working professionals, schools, young people and lower-income communities in Brazil.
@@ -38,10 +40,10 @@ A newly launched LinkedIn Page, "Ensinando o Brasil a usar IA", bringing practic
 ### Vivers de Cardedeu — Business Operating System · Nov 2025 – present
 An operating system for [Vivers de Cardedeu](https://viverosdecardedeu.com/en/), a family-run plant nursery in Cardedeu (Barcelona): inventory, CRM, orders, reports, and a sales map — designed to become a multi-tenant SaaS for Spanish SMEs.
 
-- **Role:** product lead — data model, business rules, roadmap, and the nursery's client outreach
+- **Role:** product lead — data model, business rules and roadmap
 - **Design:** variant-first inventory · every stock change audited · `DRAFT → FINALIZED → CANCELLED` order lifecycle · reporting on FINALIZED only
 - **Stack:** Node.js / Express · PostgreSQL / Prisma · Zod · Next.js 14 · React 18 · TypeScript · Tailwind · React Query · Leaflet · i18n (es / ca / en)
-- **Status:** internal testing ahead of rollout; leading the nursery's outreach to architect studios, construction firms, and hotel chains · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
+- **Status:** internal testing ahead of rollout · [viverosdecardedeu.com](https://viverosdecardedeu.com/en/)
 
 All codebases are private.
 

@@ -2,11 +2,11 @@
 
 # Diego Riviere Padilha
 
-Fundador, **RA Holdings** (RA Performance · RA Studios · RA Education) · Construyendo **Vivers de Cardedeu BOS** (vivero familiar) · São Paulo · Nueva York · Barcelona
+Fundador, **RA** (RA Performance · RA Studios · RA Education) · Construyendo **Vivers de Cardedeu BOS** (vivero familiar) · São Paulo · Nueva York · Barcelona
 
 Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construyendo productos y experimentos de IA para pequeñas empresas en Brasil y España, como proyectos paralelos en mi tiempo libre. Llevo el ciclo completo: arquitectura, código y QC.
 
-> **RA Holdings es un proyecto personal. Todo lo que hay aquí se hace en mi tiempo libre.**
+> **RA es un proyecto personal. Todo lo que hay aquí se hace en mi tiempo libre.**
 
 [rastudios.com.br](https://rastudios.com.br) · [LinkedIn](https://linkedin.com/in/diegopadilha/) · diego.padilha2000@gmail.com
 
@@ -14,7 +14,7 @@ Formación en finanzas (finanzas estructuradas CMBS en Moody's), ahora construye
 
 ## Qué estoy construyendo
 
-### RA Holdings · 2026 – actual
+### RA · 2026 – actual
 Mi proyecto personal, con tres brazos. El mismo método en todos: primero la spec, QC antes de entregar, y llevo el ciclo completo (arquitectura, código, QC).
 
 **RA Performance — rendimiento de personas y de negocios**

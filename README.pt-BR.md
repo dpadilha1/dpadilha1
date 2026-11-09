@@ -35,8 +35,8 @@ Um projeto de estúdio que constrói sites, apps, consultoria de IA e filmes de 
   - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Meta Ads
 - **Status:** site de portfólio público · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
-**RA Education — ensinando o Brasil a usar IA**
-Uma [página no LinkedIn](https://www.linkedin.com/company/ra-education/) recém-lançada, "Ensinando o Brasil a usar IA", levando IA prática a profissionais, escolas, jovens e comunidades de baixa renda no Brasil.
+**RA Education — ensinando o Brasil a usar IA e a pensar como atleta**
+Uma [página no LinkedIn](https://www.linkedin.com/company/ra-education/) recém-lançada, "Ensinando o Brasil a usar IA e a pensar como atleta", que leva IA prática e o que o esporte ensina sobre performance a jovens e profissionais no Brasil. Escolas e universidades vêm depois.
 
 - **Skills open source:** [ra-education-skills](https://github.com/dpadilha1/ra-education-skills), skills reutilizáveis para agentes de IA (Claude Code, Codex, Gemini CLI). A primeira: `/cleanup`, que audita um projeto atrás de segredos vazados, excesso de arquivos, docs desatualizados e tokens desperdiçados. Licença MIT.
 

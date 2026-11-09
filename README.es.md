@@ -36,7 +36,7 @@ Un proyecto de estudio que construye webs, apps, consultoría de IA y películas
 - **Estado:** web de portfolio pública · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — enseñando a Brasil a usar IA**
-Una página de LinkedIn recién lanzada, "Ensinando o Brasil a usar IA", que lleva IA práctica a profesionales, escuelas, jóvenes y comunidades de bajos ingresos en Brasil.
+Una [página de LinkedIn](https://www.linkedin.com/company/ra-education/) recién lanzada, "Ensinando o Brasil a usar IA", que lleva IA práctica a profesionales, escuelas, jóvenes y comunidades de bajos ingresos en Brasil.
 
 - **Skills de código abierto:** [ra-education-skills](https://github.com/dpadilha1/ra-education-skills), skills reutilizables para agentes de IA (Claude Code, Codex, Gemini CLI). La primera: `/cleanup`, que audita un proyecto en busca de secretos filtrados, exceso de archivos, docs obsoletos y tokens desperdiciados. Licencia MIT.
 

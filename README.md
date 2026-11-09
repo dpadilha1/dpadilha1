@@ -25,11 +25,14 @@ Apps built around training and coaching.
 - **Role:** product and engineering
 
 **RA Studios — digital studio project**
-A studio project exploring product films, websites, apps and AI consulting for small businesses in Brazil.
+A studio project building websites, apps, AI consulting and product films for small businesses in Brazil.
 
-- **Films (5–60 s):** generated on ElevenLabs / Higgsfield
-- **Pipeline:** brief → generation prompt → Python QC (geometry, EBU R128 loudness, frame-accurate end-card) → delivery
-- **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
+- **Website design:** landing pages, institutional sites, online stores and link-in-bio pages. Hand-built in HTML / CSS / JS, portable to any host, served on Cloudflare (Workers + Resend for forms).
+- **Apps:** web apps, internal tools and mobile apps. Designed by RA Studios: RA One and Vivers BOS (see their sections).
+- **AI consulting:** helping companies adopt AI, from team training to implementation.
+- **Films (5–60 s):** product films generated on ElevenLabs / Higgsfield.
+  - **Pipeline:** brief → generation prompt → Python QC (geometry, EBU R128 loudness, frame-accurate end-card) → delivery
+  - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Meta Ads
 - **Status:** public portfolio site · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — teaching Brazil to use AI**

@@ -25,11 +25,14 @@ Apps construídos em torno de treino e coaching.
 - **Papel:** produto e engenharia
 
 **RA Studios — projeto de estúdio digital**
-Um projeto de estúdio que explora filmes de produto, sites, apps e consultoria de IA para pequenas empresas no Brasil.
+Um projeto de estúdio que constrói sites, apps, consultoria de IA e filmes de produto para pequenas empresas no Brasil.
 
-- **Filmes (5–60 s):** gerados no ElevenLabs / Higgsfield
-- **Pipeline:** briefing → prompt de geração → QC em Python (geometria, loudness EBU R128, end-card frame a frame) → entrega
-- **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Cloudflare Workers · Meta Ads
+- **Design de sites:** landing pages, sites institucionais, lojas online e páginas link-in-bio. Feitos à mão em HTML / CSS / JS, portáveis para qualquer hospedagem, no ar na Cloudflare (Workers + Resend para formulários).
+- **Apps:** web apps, ferramentas internas e apps mobile. Desenhados pela RA Studios: RA One e Vivers BOS (veja as seções deles).
+- **Consultoria de IA:** ajudando empresas a adotar IA, do treinamento da equipe à implementação.
+- **Filmes (5–60 s):** filmes de produto gerados no ElevenLabs / Higgsfield.
+  - **Pipeline:** briefing → prompt de geração → QC em Python (geometria, loudness EBU R128, end-card frame a frame) → entrega
+  - **Stack:** ElevenLabs · Higgsfield · Python / ffmpeg · Meta Ads
 - **Status:** site de portfólio público · [rastudios.com.br](https://rastudios.com.br) · [@rastudios_br](https://instagram.com/rastudios_br) (Instagram)
 
 **RA Education — ensinando o Brasil a usar IA**

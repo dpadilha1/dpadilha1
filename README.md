@@ -4,7 +4,7 @@
 
 Founder, **RA** (RA Performance · RA Studios · RA Education) · Building **Vivers de Cardedeu BOS** (family nursery) · São Paulo · New York · Barcelona
 
-Finance background (structured finance CMBS at Moody's), now building AI products and experiments for small businesses in Brazil, as side projects in my free time. I run the whole loop: architecture, code and QC.
+Finance background (structured finance CMBS at Moody's), now building practical AI for people, businesses and athletes in Brazil and Spain, as side projects in my free time. I run the whole loop: architecture, code and QC.
 
 > **RA is a personal project. Everything here is built in my free time.**
 

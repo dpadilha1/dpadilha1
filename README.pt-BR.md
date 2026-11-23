@@ -4,7 +4,7 @@
 
 Fundador, **RA** (RA Performance · RA Studios · RA Education) · Construindo o **Vivers de Cardedeu BOS** (viveiro familiar) · São Paulo · Nova York · Barcelona
 
-Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construindo produtos e experimentos de IA para pequenas empresas no Brasil, como projetos paralelos no meu tempo livre. Cuido do ciclo inteiro: arquitetura, código e QC.
+Formação em finanças (finanças estruturadas CMBS na Moody's), hoje construindo IA prática para pessoas, empresas e atletas no Brasil e na Espanha, como projetos paralelos no meu tempo livre. Cuido do ciclo inteiro: arquitetura, código e QC.
 
 > **A RA é um projeto pessoal. Tudo aqui é feito no meu tempo livre.**
 
